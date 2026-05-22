@@ -1,3 +1,5 @@
+# 🚀 Live Demo: https://huggingface.co/spaces/ajaysah-ai/telecom-churn-prediction
+
 # 1. Project Title & Description - Telecom Customer Churn Prediction
     ~ The main objective of this project is to find out which customers are likely to leave the telecom service (Churn), so that the company can offers to stop them.
 
